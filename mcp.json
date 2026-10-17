@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "pipp": {
+      "url": "https://app.pipp.so/api/agent"
+    }
+  }
+}
