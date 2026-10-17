@@ -9,11 +9,6 @@
   "homepage": "https://pipp.so",
   "repository": "https://github.com/madeinorbit/pipp-plugin",
   "license": "MIT",
-  "keywords": [
-    "customer support",
-    "shared inbox",
-    "email",
-    "helpdesk"
-  ],
+  "keywords": ["customer support", "shared inbox", "email", "helpdesk"],
   "logo": "assets/pipp-appmark.svg"
 }
