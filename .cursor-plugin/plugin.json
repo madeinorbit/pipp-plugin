@@ -1,7 +1,7 @@
 {
   "name": "pipp",
   "version": "0.1.0",
-  "description": "Set up Pipp and work your team's shared support inbox from Grok Bot. Connect your own Pipp account to create or resume a workspace and inbox, follow forwarding and DNS setup, read cases and saved Pipp summaries, prepare shared drafts and send replies you authorize. Sending requires a verified custom domain assigned to the inbox.",
+  "description": "Customer support, minus the fuss. Pipp is a simple shared email inbox for small teams, and with this plugin Grok Bot works in it with you: set Pipp up in a conversation, see what needs a reply, catch up on any customer conversation and draft replies your team can review. You connect your own Pipp account, choose what the Bot may do, and it sends a reply only when you tell it to.",
   "author": {
     "name": "Telesoft AG",
     "email": "hello@pipp.so"
@@ -9,6 +9,6 @@
   "homepage": "https://pipp.so",
   "repository": "https://github.com/madeinorbit/pipp-plugin",
   "license": "MIT",
-  "keywords": ["customer support", "shared inbox", "email", "helpdesk"],
+  "keywords": ["customer support", "shared inbox", "email", "helpdesk", "small teams"],
   "logo": "assets/pipp-appmark.svg"
 }

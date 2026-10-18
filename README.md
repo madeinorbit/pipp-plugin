@@ -1,8 +1,22 @@
 # Pipp for Grok Bot
 
-[Pipp](https://pipp.so) is a shared email inbox for small support teams. This plugin connects Grok Bot to your own Pipp account so a Bot can set up Pipp with you and work your support email.
+**Customer support, minus the fuss, right where you already talk to Grok.**
 
-Status, 2026-10-17: submitted for listing, not yet listed in Grok Bot. Until the listing is approved, Pipp does not appear in **Connect apps**.
+[Pipp](https://pipp.so) is a simple shared email inbox for small teams. Your customer emails land in one place, the whole team can see them, and you reply together. This plugin lets Grok Bot work in that inbox with you: set Pipp up in a conversation, find out what's waiting, catch up on a conversation, and prepare replies your team can review. Grok Bot sends a reply only when you tell it to.
+
+Status: not yet listed in Grok Bot. Until the listing is approved, Pipp does not appear in **Connect apps**.
+
+## How Grok Bot helps
+
+**Setting up support for the first time.** Say "Set up Pipp for support@mycompany.com." Grok Bot creates your workspace and inbox, walks you through forwarding from Gmail or your email provider, lists the DNS records for your sending domain and checks each step as you go. You only do the steps that need you: a click in Gmail, a change at your DNS host.
+
+**Answering customers.** Ask "What needs a reply?" or "Catch me up on the Acme conversation." Grok Bot reads the conversation and Pipp's saved summary, drafts a reply in the shared draft your teammates see in Pipp, and adds an internal note when you want to hand something over. Assign, snooze or close a conversation without switching apps.
+
+**Running the team.** If you're an Admin and allow it, Grok Bot can invite teammates, manage inboxes and sending domains, and block a sender who keeps causing trouble.
+
+**In a team chat.** A shared Team Bot, for example in Slack, uses the Pipp account of whoever is talking to it. Everyone acts as themselves, with their own access.
+
+**Always under your control.** You connect your own account and choose exactly what Grok Bot may do. Teammates see in Pipp which actions a Bot took for you, and customers get your reply with no added footer. Disconnect any time in Pipp under **Connected agents**.
 
 ## Install
 
@@ -14,7 +28,7 @@ If a task needs access you did not grant, the Bot tells you. Choose **Reconnect*
 
 Each person connects their own Pipp account. A shared Team Bot uses the account of the person talking to it. The Bot never becomes a Pipp member or workspace Owner.
 
-## What the Bot can do
+## What the Bot can do, exactly
 
 With the permissions you grant, the Bot can:
 
